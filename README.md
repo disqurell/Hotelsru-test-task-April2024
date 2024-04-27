@@ -8,7 +8,7 @@
 Например, при вводе числа 25 функция должна возвращать "25 компьютеров", для числа 41 — "41 компьютер",
 а для числа 1048 — "1048 компьютеров".
 ```
-###  [Решение]()
+###  [Решение](https://github.com/fjsecur1ty/Hotelsru-test-task-April2024/blob/main/internal/task_1.py)
 
 ## Задача 2.
 ```Python
@@ -17,7 +17,7 @@
 На выходе возвращает массив чисел, которые являются общими делителями для всех указанных чисел.
 В примере это будет [2, 3, 6].
 ```
-###  [Решение]()
+###  [Решение](https://github.com/fjsecur1ty/Hotelsru-test-task-April2024/blob/main/internal/task_2.py)
 
 ## Задача 3.
 ```Python
@@ -27,7 +27,7 @@
 (диапазон считается включая граничные значения).
 На выходе программа должна выдать [11, 13, 17, 19]
 ```
-###  [Решение]()
+###  [Решение](https://github.com/fjsecur1ty/Hotelsru-test-task-April2024/blob/main/internal/task_3.py)
 
 ## Задача 4.
 ```Python
@@ -41,4 +41,4 @@
 4  4   8   12  16  20
 5  5   10  15  20  25
 ```
-###  [Решение]()
+###  [Решение](https://github.com/fjsecur1ty/Hotelsru-test-task-April2024/blob/main/internal/task_4.py)
